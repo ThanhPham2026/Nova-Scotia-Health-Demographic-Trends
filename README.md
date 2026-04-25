@@ -50,8 +50,8 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
 * 📁 Repository Structure
   
       Docs/
-        weekly_reports/
-        requirements/
+        Deliverable/
+        Others/
       Data/
         raw/
         cleaned/
