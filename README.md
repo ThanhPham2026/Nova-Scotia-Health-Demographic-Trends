@@ -9,61 +9,61 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
 
 🎯 Project Goals
   
-  * Population Trends: Understand how age distribution is changing and its impact on healthcare demand
+ * Population Trends: Understand how age distribution is changing and its impact on healthcare demand
 
-  * Regional Health Risk: Identify regions with high chronic disease prevalence
+ * Regional Health Risk: Identify regions with high chronic disease prevalence
 
-  * Socioeconomic Impact: Analyze how income and education influence health outcomes
+ * Socioeconomic Impact: Analyze how income and education influence health outcomes
 
-  * System Performance: Compare hospitalization rates with national benchmarks
+ * System Performance: Compare hospitalization rates with national benchmarks
 
-  * Demand Drivers: Identify key population groups driving healthcare demand
+ * Demand Drivers: Identify key population groups driving healthcare demand
 
-  * Decision Support: Provide insights for healthcare planning and policy decisions
+ * Decision Support: Provide insights for healthcare planning and policy decisions
 
 
 📁 Repository
 
-    https://github.com/Anne-Wambaire-Mwangi/Nova-Scotia-Health-Demographic-Trends.git
+   https://github.com/Anne-Wambaire-Mwangi/Nova-Scotia-Health-Demographic-Trends.git
 
 
 📊Tools & Technologies
     
-    * Python (Pandas, NumPy, Scikit-learn)
-    * SQL (data cleaning and transformation)
-    * Power BI (dashboard and visualization)
-    * GitHub (version control and collaboration)
+   * Python (Pandas, NumPy, Scikit-learn)
+   * SQL (data cleaning and transformation)
+   * Power BI (dashboard and visualization)
+   * GitHub (version control and collaboration)
 
 
 📊 Project Deliverables
   
-    * Cleaned dataset
+  * Cleaned dataset
     
-    * Data dictionary
+  * Data dictionary
   
-    * SQL/Python data cleaning scripts
+  * SQL/Python data cleaning scripts
   
-    * Exploratory Data Analysis (EDA) notebook
+   * Exploratory Data Analysis (EDA) notebook
   
-    * Predictive model (if applicable)
+   * Predictive model (if applicable)
   
-    * Power BI dashboard
+   * Power BI dashboard
   
-    * Final project report
+   * Final project report
 
 
 📁 Repository Structure
   
-      Docs/
-        Deliverable/
-        Others/
-      Data/
-        raw/
-        clean/
-      Scripts/
-        python/
-        sql/
-      Dashboard/
+    Docs/
+       Deliverable/
+       Others/
+     Data/
+       raw/
+       clean/
+     Scripts/
+       python/
+       sql/
+     Dashboard/
 
 
  📅 Project Timeline
