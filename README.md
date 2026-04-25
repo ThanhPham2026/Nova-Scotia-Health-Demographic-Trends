@@ -1,13 +1,13 @@
 NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
 *******
-* 📌 Project Overview
+📌 Project Overview
 
   This project analyzes health and demographic trends in Nova Scotia to understand how population changes impact healthcare demand, system performance, and policy planning.
   
   With an aging population and regional disparities in health outcomes, Nova Scotia faces increasing pressure on healthcare resources. This project transforms raw data into actionable insights through data analysis and visualization.
 
 
-* 🎯 Project Goals
+🎯 Project Goals
   
   * Population Trends: Understand how age distribution is changing and its impact on healthcare demand
 
@@ -22,12 +22,12 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
   * Decision Support: Provide insights for healthcare planning and policy decisions
 
 
-* 📁 Repository
+📁 Repository
 
     https://github.com/Anne-Wambaire-Mwangi/Nova-Scotia-Health-Demographic-Trends.git
 
 
-* 📊Tools & Technologies
+📊Tools & Technologies
     
     * Python (Pandas, NumPy, Scikit-learn)
     * SQL (data cleaning and transformation)
@@ -35,7 +35,7 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
     * GitHub (version control and collaboration)
 
 
-* 📊 Project Deliverables
+📊 Project Deliverables
   
     * Cleaned dataset
     
@@ -52,7 +52,7 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
     * Final project report
 
 
-* 📁 Repository Structure
+📁 Repository Structure
   
       Docs/
         Deliverable/
@@ -66,7 +66,7 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
       Dashboard/
 
 
-  📅 Project Timeline
+ 📅 Project Timeline
   
  | Week   | Focus                       |
 | ------ | --------------------------- |
