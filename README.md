@@ -1,6 +1,6 @@
 NSCC CAPSTONE PROJECT_TEAM ALPHA
 NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
------------
+*******
 
 Team members
   
@@ -12,10 +12,7 @@ Team members
      
   * Ayide, Juliana
 
-  * Vacancy/All team
-
-
-*******
+-----------
 📌 Project Overview
 
   This project analyzes health and demographic trends in Nova Scotia to understand how population changes impact healthcare demand, system performance, and policy planning.
