@@ -90,15 +90,15 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
 
 👥Team members
   
-  * Pham, Thanh  _     Project Manager    https://github.com/ThanhPham2026
+  * Pham, Thanh  _ Project Manager
   
-   * Mwangi, Ann  _    Data Lead    https://github.com/Anne-Wambaire-Mwangi   
+  * Mwangi, Ann  _ Data Lead
 
-   * Okoro, Chukwuma _ SQL/ETL Analyst   https://github.com/Sirchux
+  * Okoro, Chukwuma _ SQL/ETL Analyst
+     
+  * Ayide, Juliana _  Reporting Lead
 
-   * Ayide, Juliana _  Reporting Lead   https://github.com/julian31-cat
-
-   * Vacation/All team _ QA/Docs
+  * Vacancy/All team _ QA/Docs
 
 
 📬 Contact
