@@ -96,7 +96,7 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
 
    * Okoro, Chukwuma _ SQL/ETL Analyst   https://github.com/Sirchux
 
-   * Ayide, Juliana _  Reporting Lead   https://github.com/julianaayide-cmd
+   * Ayide, Juliana _  Reporting Lead   https://github.com/julian31-cat
 
    * Vacation/All team _ QA/Docs
 
@@ -104,6 +104,8 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
 📬 Contact
 
   For questions or collaboration, please reach out via GitHub.
+
+
   
   
 
