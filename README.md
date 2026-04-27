@@ -13,12 +13,14 @@ NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TREN
   * Ayide, Juliana
 
 *******
+
 📌 Project Overview
 
-  This project analyzes health and demographic trends in Nova Scotia to understand how population changes impact healthcare demand, system performance, and policy planning.
+  A 5-week project analyzes health and demographic trends in Nova Scotia to understand how population changes impact healthcare demand, system performance, and policy planning.
   
   With an aging population and regional disparities in health outcomes, Nova Scotia faces increasing pressure on healthcare resources. This project transforms raw data into actionable insights through data analysis and visualization.
 
+******
 
 🎯 Project Goals
   
@@ -34,41 +36,11 @@ NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TREN
 
  * Decision Support: Provide insights for healthcare planning and policy decisions
 
-
-📁 Repository
-
-   [Nova-Scotia & Health-Population-Analytics](https://anne-wambaire-mwangi.github.io/Nova-Scotia-Health-Demographic-Trends/)
-
-
-📊Tools & Technologies
-    
-   * Python (Pandas, NumPy, Scikit-learn)
-   * SQL (data cleaning and transformation)
-   * Power BI (dashboard and visualization)
-   * GitHub (version control and collaboration)
-
-
-📊 Project Deliverables
-  
-  * Cleaned dataset
-    
-  * Data dictionary
-  
-  * SQL/Python data cleaning scripts
-  
-   * Exploratory Data Analysis (EDA) notebook
-  
-   * Predictive model (if applicable)
-  
-   * Power BI dashboard
-  
-   * Final project report
-
+********
 
 📁 Repository Structure
   
-    Dashboard/      
-    Docs/
+      Docs/
        Deliverable/
        Others/
      Data/
@@ -77,30 +49,84 @@ NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TREN
      Scripts/
        python/
        sql/
-   
+    Dashboard/      
 
+**********
 
- 📅 Project Timeline
+ 📅 Project Deliverables
   
- | Week   | Focus                       |
-| ------ | --------------------------- |
-| Week 1 | Project setup & planning    |
-| Week 2 | Data cleaning & preparation |
-| Week 3 | EDA & modeling              |
-| Week 4 | Dashboard development       |
-| Week 5 | Final report & presentation |
+ | Week   | Focus                      |  Deliverables
+| ------ | --------------------------- |--------------------------------------------------------
+| Week 1 | Project setup & planning    |* Project charter, GitHub repository, Milestone plan                                        
+| Week 2 | Data cleaning & preparation |* Cleaning dataset, Data dictionary, Cleaning Scripts (SQL or Python)
+| Week 3 | EDA & modeling              |* Python notebook, Dashboard Wireframe
+| Week 4 | Dashboard development       |* Power BI dashboard (pbix), Internal Review Log
+| Week 5 | Final report & presentation |* Final project report (pdf), Archived GitHub Repo, Individual reflection, Peer evaluation.
+
+**********
+
+Week 1: Project setup & planning 
+----
+
+1.1 Project Charter
+
+1.2 GitHub Repo
+
+1.3 Milestone plan
 
 
-📈 Expected Outcomes
-    
-  * Clear insights into demographic and healthcare trends
-    
-  * Identification of high-risk regions and populations
-  
-  * Data-driven support for healthcare planning
- 
-  * Interactive dashboard for decision-making
-    
+----
+
+Week 2: EDA & modeling
+----
+
+2.1 Cleaning dataset
+
+2.2 Data dictionary
+
+2.3 Cleaning Scripts (SQL or Python)
+
+----
+
+Week 3: Project setup & planning 
+----
+
+3.1 Python notebook
+
+3.2 Dashboard Wireframe
+
+
+----
+
+Week 4: Dashboard development 
+----
+
+4.1 Power BI dashboard (pbix)
+
+4.2 Internal Review Log
+
+----
+
+Week 5: Final report & presentation
+----
+
+5.1 Final project report (pdf)
+
+5.2 Archived GitHub Repo
+
+5.3 Individual reflection
+
+5.4 Peer evaluation.
+
+
+*********
+
+
+📁 GitHub Page Website
+
+   [Nova-Scotia & Health-Population-Analytics](https://anne-wambaire-mwangi.github.io/Nova-Scotia-Health-Demographic-Trends/)
+
+
 📬 Contact
 
   For questions or collaboration, please reach out via GitHub.
