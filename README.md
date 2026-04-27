@@ -1,4 +1,20 @@
-NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
+NSCC CAPSTONE PROJECT_TEAM ALPHA
+NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
+-----------
+
+Team members
+  
+  * Pham, Thanh
+  
+  * Mwangi, Ann
+
+  * Okoro, Chukwuma
+     
+  * Ayide, Juliana
+
+  * Vacancy/All team
+
+
 *******
 📌 Project Overview
 
@@ -54,6 +70,7 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
 
 📁 Repository Structure
   
+    Dashboard/      
     Docs/
        Deliverable/
        Others/
@@ -63,7 +80,7 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
      Scripts/
        python/
        sql/
-     Dashboard/
+   
 
 
  📅 Project Timeline
@@ -87,20 +104,6 @@ NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
  
   * Interactive dashboard for decision-making
     
-
-👥Team members
-  
-  * Pham, Thanh  _ Project Manager
-  
-  * Mwangi, Ann  _ Data Lead
-
-  * Okoro, Chukwuma _ SQL/ETL Analyst
-     
-  * Ayide, Juliana _  Reporting Lead
-
-  * Vacancy/All team _ QA/Docs
-
-
 📬 Contact
 
   For questions or collaboration, please reach out via GitHub.
