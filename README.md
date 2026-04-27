@@ -1,8 +1,8 @@
 NSCC CAPSTONE PROJECT_TEAM ALPHA
-NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
-*******
 
-Team members
+NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TRENDS
+-----------
+**Team members
   
   * Pham, Thanh
   
@@ -12,7 +12,7 @@ Team members
      
   * Ayide, Juliana
 
------------
+*******
 📌 Project Overview
 
   This project analyzes health and demographic trends in Nova Scotia to understand how population changes impact healthcare demand, system performance, and policy planning.
