@@ -40,28 +40,28 @@ NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TREN
 
 📁 Repository Structure
   
-      Docs/
-       Deliverable/
-       Others/
+    Docs/
+        Deliverable/
+        Others/
      Data/
-       raw/
-       clean/
+        raw/
+        clean/
      Scripts/
-       python/
-       sql/
-    Dashboard/      
+        python/
+        sql/
+     Dashboard/      
 
 **********
 
  📅 Project Deliverables
   
- | Week   | Focus                      |  Deliverables
-| ------ | --------------------------- |--------------------------------------------------------
-| Week 1 | Project setup & planning    |* Project charter, GitHub repository, Milestone plan                                        
-| Week 2 | Data cleaning & preparation |* Cleaning dataset, Data dictionary, Cleaning Scripts (SQL or Python)
-| Week 3 | EDA & modeling              |* Python notebook, Dashboard Wireframe
-| Week 4 | Dashboard development       |* Power BI dashboard (pbix), Internal Review Log
-| Week 5 | Final report & presentation |* Final project report (pdf), Archived GitHub Repo, Individual reflection, Peer evaluation.
+ | Week   | Focus                       |  Deliverables
+| ------  | --------------------------- |--------------------------------------------------------
+| Week 1  | Project setup & planning    | Project charter, GitHub repository, Milestone plan                                        
+| Week 2  | Data cleaning & preparation | Cleaning dataset, Data dictionary, Cleaning Scripts (SQL or Python)
+| Week 3  | EDA & modeling              | Python notebook, Dashboard Wireframe
+| Week 4  | Dashboard development       | Power BI dashboard (pbix), Internal Review Log
+| Week 5  | Final report & presentation | Final project report (pdf), Archived GitHub Repo, Individual reflection, Peer evaluation.
 
 **********
 
