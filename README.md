@@ -14,7 +14,7 @@ NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TREN
 
 *******
 
-📌 Project Overview
+📌 **Project Overview**
 
   A 5-week project analyzes health and demographic trends in Nova Scotia to understand how population changes impact healthcare demand, system performance, and policy planning.
   
@@ -22,38 +22,24 @@ NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TREN
 
 ******
 
-🎯 Project Goals
+🎯 **Project Goals**
   
- * Population Trends: Understand how age distribution is changing and its impact on healthcare demand
+* Evaluate long-term demographic shifts in Nova Scotia to anticipate future healthcare demand and aging population pressures 
 
- * Regional Health Risk: Identify regions with high chronic disease prevalence
+* Identify geographic disparities in chronic disease prevalence to inform targeted regional health interventions 
 
- * Socioeconomic Impact: Analyze how income and education influence health outcomes
+* Assess the impact of socioeconomic factors (income, education) on health outcomes to highlight health inequities and risk factors 
 
- * System Performance: Compare hospitalization rates with national benchmarks
+* Benchmark Nova Scotia’s hospitalization performance against national standards to identify gaps and improvement opportunities 
 
- * Demand Drivers: Identify key population groups driving healthcare demand
+* Analyze utilization patterns to determine which population segments are driving increased demand for healthcare services 
 
- * Decision Support: Provide insights for healthcare planning and policy decisions
+* Generate actionable insights through data modelling and visualization to support strategic planning, resource allocation, and policy development in the healthcare system.
 
-********
-
-📁 Repository Structure
-  
-    Docs/
-        Deliverable/
-        Others/
-     Data/
-        raw/
-        clean/
-     Scripts/
-        python/
-        sql/
-     Dashboard/      
 
 **********
 
- 📅 Project Deliverables
+ 📅 **Project Deliverables**
   
  | Week     | Focus                       |  Deliverables
 | ------    | --------------------------- |--------------------------------------------------------
@@ -68,11 +54,73 @@ NOVA SCOTIA HEALTH & POPULATION ANALYTICS - NOVA SCOTIA HEALTH DEMOGRAPHICS TREN
 Week 1: Project setup & planning 
 ----
 
-1.1 Project Charter
+**1.1 Project Charter**
 
-1.2 GitHub Repo
+This project analyzes hospitalization trends and demographic changes in Nova Scotia to identify patterns and support data-driven healthcare decisions. It focuses on comparing provincial metrics with national averages, exploring age distribution shifts, and examining hospital utilization. The outcome includes a structured data model, interactive dashboard, and analytical insights for stakeholders.
 
-1.3 Milestone plan
+ * Key Analytical Questions to Investigate
+  
+    a.  How has Nova Scotia's population age distribution shifted over the past decade, and what are the projected trends?
+
+    b.  Which NS health regions show the highest rates of chronic disease (e.g., diabetes, cardiovascular disease)?
+
+    c.  Is there a correlation between socioeconomic indicators (income, education) and health outcomes in NS communities?
+
+    d.  How do NS hospitalization rates compare to the national average by condition type?
+
+    e.  What demographic segments are driving the most significant changes in health service demand?
+
+----
+
+**1.2 GitHub Repo**: 
+
+  **📁 Repository Structure**
+  
+    Docs/
+        Deliverable/               # Final project outputs
+        Others/                    # Support documents
+     Data/
+        raw/                       # Original datasets
+        clean/                     # Cleaned datasets
+     Scripts/                      # Data cleaning & analysis scripts
+        python/
+        sql/
+     Dashboard/                    # Power BI files
+     
+     .gitignore                    # Configuration file that tells Git which files or folders to ignore
+     README.md                     # Project documentation
+     index.html                    # Main webpage file
+     
+
+* **Version Control Workflow**: Commit frequently with clear messages
+
+
+* **Tools & Technologies**: Python (Pandas, NumPy), Excel / CSV data sources,  Power BI, GitHub
+
+----
+
+**1.3 Milestone plan**
+
+| Milestone               | Description                                 | Timeline |
+| ----------------------- | ------------------------------------------- | -------- |
+| Data Collection         | Gather raw datasets from sources            | Week 1   |
+| Data Cleaning           | Clean, standardize, and merge datasets      | Week 2   |
+| Data Modeling           | Build star schema (fact & dimension tables) | Week 3   |
+| Dashboard Development   | Develop Power BI dashboard                  | Week 4   |
+| Final Report            | Presentation & Final report                 | Week 5   |
+
+ 
+**Key Outputs per Milestone:**
+  
+  * Week 1: Team formation & Raw data
+  
+  * Week 2: Clean dataset ready
+  
+  * Week 3: Data model finalized
+  
+  * Week 4: Interactive dashboard
+  
+  * Week 5: Presentation & final project
 
 
 ----
