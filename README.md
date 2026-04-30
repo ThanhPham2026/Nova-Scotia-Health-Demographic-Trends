@@ -130,7 +130,7 @@ Performed data cleaning and preprocessing using Python (Pandas, NumPy) and Power
 
 **Tools & Technologies**: 
 
-  * Python (Pandas, NumPy)
+  * SQL/Python (Pandas, NumPy)
   * Power Query
   * Power BI
   * GitHub
