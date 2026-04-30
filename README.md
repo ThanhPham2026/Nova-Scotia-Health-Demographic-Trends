@@ -69,10 +69,9 @@ This project analyzes hospitalization trends and demographic changes in Nova Sco
     d.  How do NS hospitalization rates compare to the national average by condition type?
 
     e.  What demographic segments are driving the most significant changes in health service demand?
-
-----
-
-**1.2 GitHub Repo**: 
+ ----
+  
+  **1.2 GitHub Repo**: 
 
   **📁 Repository Structure**
   
@@ -93,9 +92,6 @@ This project analyzes hospitalization trends and demographic changes in Nova Sco
      
 
 * **Version Control Workflow**: Commit frequently with clear messages
-
-
-* **Tools & Technologies**: Python (Pandas, NumPy), Excel / CSV data sources,  Power BI, GitHub
 
 ----
 
@@ -123,18 +119,34 @@ This project analyzes hospitalization trends and demographic changes in Nova Sco
   * Week 5: Presentation & final project
 
 
+**********
+
+**Week 2: EDA & modeling**
 ----
 
-Week 2: EDA & modeling
+**2.1 Cleaning dataset**
+
+Performed data cleaning and preprocessing using Python (Pandas, NumPy) and Power Query. Tasks included handling missing values, standardizing column names, removing duplicates, and filtering relevant data for analysis.
+
+**Tools & Technologies**: 
+
+  * Python (Pandas, NumPy)
+  * Power Query
+  * Power BI
+  * GitHub
+
+----
+**2.2 Data dictionary**
+
+Developed a data dictionary to define key variables such as hospitalization rates, age groups, length of stay (LOS), and ALC indicators to ensure consistency and clarity across the dataset.
+
 ----
 
-2.1 Cleaning dataset
+**2.3 Cleaning Scripts (SQL or Python)**
 
-2.2 Data dictionary
+Implemented reusable data cleaning scripts in Python to automate preprocessing steps and generate a structured, analysis-ready dataset.
 
-2.3 Cleaning Scripts (SQL or Python)
-
-----
+*******
 
 Week 3: Project setup & planning 
 ----
@@ -169,7 +181,27 @@ Week 5: Final report & presentation
 
 *********
 
+**📁Data Sources**
 
+* Nova Scotia Open Data Portal - Health, economy, demographics, education
+https://data.novascotia.ca  
+
+
+* Statistics Canada - LFS, census, health surveys, economic indicators
+ https://www150.statcan.gc.ca
+
+
+* Halifax Regional Municipality - Transit, permits, 311 data, geographic layers
+https://catalogue-hrm.opendata.arcgis.com
+
+* CIHI Open Data  - Hospital, wait times, health workforce
+https://cihi.ca/en/access-data-and-reports/open-data
+
+* Open Canada Federal Portal - Federal data discovery hub
+https://open.canada.ca/data/en/datase
+
+
+*********
 📁 GitHub Page Website
 
    [Nova-Scotia & Health-Population-Analytics](https://anne-wambaire-mwangi.github.io/Nova-Scotia-Health-Demographic-Trends/)
