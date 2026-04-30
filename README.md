@@ -186,20 +186,14 @@ Week 5: Final report & presentation
 * Nova Scotia Open Data Portal - Health, economy, demographics, education
 https://data.novascotia.ca  
 
-
 * Statistics Canada - LFS, census, health surveys, economic indicators
  https://www150.statcan.gc.ca
-
-
-* Halifax Regional Municipality - Transit, permits, 311 data, geographic layers
-https://catalogue-hrm.opendata.arcgis.com
 
 * CIHI Open Data  - Hospital, wait times, health workforce
 https://cihi.ca/en/access-data-and-reports/open-data
 
 * Open Canada Federal Portal - Federal data discovery hub
 https://open.canada.ca/data/en/datase
-
 
 *********
 📁 GitHub Page Website
