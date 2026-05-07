@@ -151,10 +151,9 @@ Implemented reusable data cleaning scripts in Python to automate preprocessing s
 Week 3: Project setup & planning 
 ----
 
-3.1 Python notebook
-
-3.2 Dashboard Wireframe
-
+Python notebook
+EDA + predictive model with markdown documentation
+Exported outputs for Power BI
 
 ----
 
