@@ -180,24 +180,27 @@ Week 5: Final report & presentation
 
 *********
 
-**📁Data Sources**
+## 📁 Data Sources & References
 
-* Nova Scotia Open Data Portal - Health, economy, demographics, education
-https://data.novascotia.ca  
+- Canadian Institute for Health Information. (n.d.). *Hospital Morbidity Database (HMDB) and Ontario Mental Health Reporting System (OMHRS)* [Data set]. https://www.cihi.ca/en
 
-* Statistics Canada - LFS, census, health surveys, economic indicators
- https://www150.statcan.gc.ca
+- Nova Scotia Health. (n.d.). *Management zones*. https://www.nshealth.ca/about-nova-scotia-health/management-zones
 
-* CIHI Open Data  - Hospital, wait times, health workforce
-https://cihi.ca/en/access-data-and-reports/open-data
+- Public Health Agency of Canada. (2025). *Canadian Chronic Disease Surveillance System* [Data set]. https://health-infobase.canada.ca/ccdss/
 
-* Open Canada Federal Portal - Federal data discovery hub
-https://open.canada.ca/data/en/datase
+- Statistics Canada. (n.d.). Table 13-10-0114-01. *Life expectancy and other elements of the complete life table, three-year estimates, Canada, all provinces except Prince Edward Island* [Data table]. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310011401
+
+- Statistics Canada. (n.d.). Table 17-10-0005-01. *Population estimates on July 1st, by age and sex* [Data table]. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
+
+- Statistics Canada. (n.d.). Table 37-10-0130-01. *Educational attainment of the population aged 25 to 64, by age group and sex, Canada, provinces and territories* [Data table]. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710013001
+
+- Statistics Canada. (2023, March 29). *Census profile, 2021 Census of Population* (Catalogue no. 98-316-X2021001). https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E
 
 *********
-📁 GitHub Page Website
 
-   [Nova-Scotia & Health-Population-Analytics](https://anne-wambaire-mwangi.github.io/Nova-Scotia-Health-Demographic-Trends/)
+📁 Findings
+
+   [Ns Hypertension & Associated Conditions Dashboard](https://anne-wambaire-mwangi.github.io/Nova-Scotia-Health-Demographic-Trends/)
 
 
 📬 Contact

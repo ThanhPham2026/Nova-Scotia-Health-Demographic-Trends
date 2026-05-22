@@ -1,0 +1,41 @@
+Socioeconomic_Variable,Socioeconomic_Label,Health_Variable,Health_Label,Pearson_r,Abs_r,P_Value,Significant,Strength,Direction
+Median_Income,Median Income,Life_Expectancy,Life Expectancy,0.0244,0.0244,0.943231,False,Weak,Beneficial
+Median_Income,Median Income,Chronic_Disease_Burden,Disease Burden (Avg),-0.1033,0.1033,0.762439,False,Weak,Protective
+Median_Income,Median Income,Acute Myocardial Infarction (AMI) Crude,AMI,0.9267,0.9267,4.1e-05,True,Very Strong,Risk
+Median_Income,Median Income,Asthma,Asthma,0.5596,0.5596,0.073465,False,Moderate,Risk
+Median_Income,Median Income,Chronic Obstructive Pulmonary Disease (COPD),COPD,-0.4463,0.4463,0.168824,False,Weak,Protective
+Median_Income,Median Income,Diabetes,Diabetes,0.877,0.877,0.000392,True,Strong,Detection Effect
+Median_Income,Median Income,Hypertension,Hypertension,-0.493,0.493,0.123374,False,Weak,Protective
+Median_Income,Median Income,Ischemic Heart Disease,IHD,-0.7846,0.7846,0.004241,True,Strong,Protective
+Average_Income,Average Income,Life_Expectancy,Life Expectancy,-0.0998,0.0998,0.770212,False,Weak,Harmful
+Average_Income,Average Income,Chronic_Disease_Burden,Disease Burden (Avg),-0.2488,0.2488,0.460637,False,Weak,Protective
+Average_Income,Average Income,Acute Myocardial Infarction (AMI) Crude,AMI,0.8902,0.8902,0.00024,True,Strong,Risk
+Average_Income,Average Income,Asthma,Asthma,0.4134,0.4134,0.20627,False,Weak,Risk
+Average_Income,Average Income,Chronic Obstructive Pulmonary Disease (COPD),COPD,-0.5632,0.5632,0.07121,False,Moderate,Protective
+Average_Income,Average Income,Diabetes,Diabetes,0.823,0.823,0.00186,True,Strong,Detection Effect
+Average_Income,Average Income,Hypertension,Hypertension,-0.6003,0.6003,0.050851,False,Moderate,Protective
+Average_Income,Average Income,Ischemic Heart Disease,IHD,-0.82,0.82,0.001999,True,Strong,Protective
+Tertiary_Edu_Pct,Tertiary Edu %,Life_Expectancy,Life Expectancy,-0.4691,0.4691,0.14555,False,Weak,Harmful
+Tertiary_Edu_Pct,Tertiary Edu %,Chronic_Disease_Burden,Disease Burden (Avg),-0.5366,0.5366,0.088778,False,Moderate,Protective
+Tertiary_Edu_Pct,Tertiary Edu %,Acute Myocardial Infarction (AMI) Crude,AMI,0.865,0.865,0.000585,True,Strong,Risk
+Tertiary_Edu_Pct,Tertiary Edu %,Asthma,Asthma,0.1069,0.1069,0.754299,False,Weak,Risk
+Tertiary_Edu_Pct,Tertiary Edu %,Chronic Obstructive Pulmonary Disease (COPD),COPD,-0.8306,0.8306,0.001543,True,Strong,Protective
+Tertiary_Edu_Pct,Tertiary Edu %,Diabetes,Diabetes,0.8092,0.8092,0.002555,True,Strong,Detection Effect
+Tertiary_Edu_Pct,Tertiary Edu %,Hypertension,Hypertension,-0.8144,0.8144,0.002272,True,Strong,Protective
+Tertiary_Edu_Pct,Tertiary Edu %,Ischemic Heart Disease,IHD,-0.9702,0.9702,1e-06,True,Very Strong,Protective
+Upper_Secondary_Pct,Upper Secondary %,Life_Expectancy,Life Expectancy,0.6434,0.6434,0.032693,True,Moderate,Beneficial
+Upper_Secondary_Pct,Upper Secondary %,Chronic_Disease_Burden,Disease Burden (Avg),0.7403,0.7403,0.009178,True,Strong,Risk
+Upper_Secondary_Pct,Upper Secondary %,Acute Myocardial Infarction (AMI) Crude,AMI,-0.6674,0.6674,0.024852,True,Moderate,Protective
+Upper_Secondary_Pct,Upper Secondary %,Asthma,Asthma,0.1923,0.1923,0.570977,False,Weak,Risk
+Upper_Secondary_Pct,Upper Secondary %,Chronic Obstructive Pulmonary Disease (COPD),COPD,0.9291,0.9291,3.6e-05,True,Very Strong,Risk
+Upper_Secondary_Pct,Upper Secondary %,Diabetes,Diabetes,-0.5885,0.5885,0.056835,False,Moderate,Protective
+Upper_Secondary_Pct,Upper Secondary %,Hypertension,Hypertension,0.9074,0.9074,0.000115,True,Very Strong,Risk
+Upper_Secondary_Pct,Upper Secondary %,Ischemic Heart Disease,IHD,0.9017,0.9017,0.000148,True,Very Strong,Risk
+Below_Upper_Secondary_Pct,Below Upper Sec %,Life_Expectancy,Life Expectancy,0.1787,0.1787,0.59911,False,Weak,Beneficial
+Below_Upper_Secondary_Pct,Below Upper Sec %,Chronic_Disease_Burden,Disease Burden (Avg),0.2003,0.2003,0.554784,False,Weak,Risk
+Below_Upper_Secondary_Pct,Below Upper Sec %,Acute Myocardial Infarction (AMI) Crude,AMI,-0.9774,0.9774,0.0,True,Very Strong,Protective
+Below_Upper_Secondary_Pct,Below Upper Sec %,Asthma,Asthma,-0.4667,0.4667,0.147828,False,Weak,Protective
+Below_Upper_Secondary_Pct,Below Upper Sec %,Chronic Obstructive Pulmonary Disease (COPD),COPD,0.5812,0.5812,0.060767,False,Moderate,Risk
+Below_Upper_Secondary_Pct,Below Upper Sec %,Diabetes,Diabetes,-0.959,0.959,3e-06,True,Very Strong,Protective
+Below_Upper_Secondary_Pct,Below Upper Sec %,Hypertension,Hypertension,0.5709,0.5709,0.06658,False,Moderate,Risk
+Below_Upper_Secondary_Pct,Below Upper Sec %,Ischemic Heart Disease,IHD,0.9077,0.9077,0.000113,True,Very Strong,Risk
